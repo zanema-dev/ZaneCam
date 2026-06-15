@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Corner bracket matte markers representing viewfinder zone -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#5F5F68"
+        android:strokeWidth="1.5"
+        android:pathData="M22,32V22h10 M86,32V22H76 M22,76v10h10 M86,76v10H76" />
+        
+    <!-- Outer aluminum metallic lens cylinder bezel -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#D1D1D6"
+        android:strokeWidth="3.5"
+        android:pathData="M54,54m-26,0a26,26 0,1 1,52 0a26,26 0,1 1,-52 0" />
+
+    <!-- Matte black focus secondary control ring inside -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#48484A"
+        android:strokeWidth="2.0"
+        android:pathData="M54,54m-19,0a19,19 0,1 1,38 0a19,19 0,1 1,-38 0" />
+
+    <!-- Active recording crimson sensor core element -->
+    <path
+        android:fillColor="#E50914"
+        android:pathData="M54,54m-10,0a10,10 0,1 1,20 0a10,10 0,1 1,-20 0" />
+
+    <!-- Inner iris lens optical glass highlight vector -->
+    <path
+        android:fillColor="#FFF"
+        android:pathData="M50,47a4,4 0,0 1,5 -1" />
+
+    <!-- Upper hot-shoe active tally marker notch -->
+    <path
+        android:fillColor="#E50914"
+        android:pathData="M52,19h4v6h-4z" />
+</vector>

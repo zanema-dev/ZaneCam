@@ -1,0 +1,6 @@
+{
+  "name": "ZaneCam",
+  "description": "Câmera cinematográfica profissional com controles manuais e interface minimalista.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
